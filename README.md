@@ -6,6 +6,7 @@
 <p>🎓 Formação: Análise e Desenvolvimento de Sistemas</p>
 <p>💼 Atualmente: Focada em Desenvolvimento Web</p>
 <p>🌎 Idiomas: Português (nativo), Inglês (avançado)</p>
+<p>🤝 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa</p>
 
 <h2 align="left">📬 Entre em Contato</h2>
 <p align="left">
