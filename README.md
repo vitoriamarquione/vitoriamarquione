@@ -1,6 +1,5 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil 👋</h1> 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriamarquione&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vitoriamarquione" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamarquione&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/></p>
 <h2>📌 Sobre mim </h2>
 <p>🎓 Formação: Análise e Desenvolvimento de Sistemas</p>
 <p>💼 Atualmente: Focada em Desenvolvimento Web</p>
